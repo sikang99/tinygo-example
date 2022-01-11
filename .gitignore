@@ -3,4 +3,5 @@
 ## Binaries
 *.hex
 *.bin
+*.uf2
 
