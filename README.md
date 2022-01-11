@@ -10,6 +10,7 @@
 - 2021/11/18 [0.21.0 Released](https://github.com/tinygo-org/tinygo/releases/tag/v0.21.0)
     - support ESP32-C3, RP2040, M5Stack Core2
 - 2021/09/30 [Go on hardware: TinyGo in the wild](https://dev.to/gotime/go-on-hardware-tinygo-in-the-wild)
+- 2019/09/12 [Let’s Go tiny with tinyGo](https://hackernoon.com/lets-go-tiny-with-tinygo-uob035t5)
 
 
 ### Information
@@ -34,4 +35,6 @@
 - [cashoefman/TinyGo-On-ESP32](https://github.com/cashoefman/TinyGo-On-ESP32)
 
 
+### Datasheets
+- [ESP32­C3 Family](https://cdn.sparkfun.com/assets/1/a/5/a/6/esp32-c3_datasheet_en.pdf)
 
