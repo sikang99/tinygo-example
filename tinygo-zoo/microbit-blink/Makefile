@@ -8,4 +8,8 @@ usage:
 build b:
 	tinygo build -o $(PROG).hex -target microbit main.go
 
+flash f:
+	tinygo flash -target microbit main.go
+
+
 
