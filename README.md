@@ -21,7 +21,7 @@
 
 ### Information
 - [191 Open Source Microcontroller Software Projects](https://opensourcelibs.com/libs/microcontroller)
-
+-  BeaconZone Blog: [ESP32](https://www.beaconzone.co.uk/blog/category/esp32/)
 
 ### Slides
 - 2021 [Run Go applications on Pico using TinyGo](https://www.slideshare.net/CherrieHsieh/run-go-applications-on-pico-using-tinygo)
@@ -33,6 +33,7 @@
 
 
 ### Open Source
+- [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
 - [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo
 - [jypelle/xship](https://github.com/jypelle/xship)
 - [mramshaw/TinyGo](https://github.com/mramshaw/TinyGo) - Experimenting with TinyGo

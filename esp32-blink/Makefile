@@ -23,6 +23,9 @@ f4:
 f5:
 	tinygo flash -target=teensy40 -x main.go
 
+list-targets lt:
+	ls /usr/local/Cellar/tinygo/0.21.0/targets/
+
 git-update gu:
 	cd ..; make gu
 
