@@ -2,16 +2,21 @@
 # Makefile
 #
 PROG=esp32-blink
-TARGET=esp32-coreboard-v2
+TARGET=teensy40
 usage:
 	@echo "usage: make [build|flash] of $(PROG) for $(TARGET)"
 
 build b:
-	tinygo build -o $(PROG).uf2 -target=$(TARGET)  main.go
+	tinygo build -o $(PROG).uf2 -target=$(TARGET) main.go
 
 flash f:
-	echo $(TARGET)
-	tinygo flash -target=$(TARGET) -port /dev/tty.usbserial-0001 -x main.go
+	@echo "> make (flash) [1|2]"
+
+f1:
+	tinygo flash -target=esp32-coreboard-v2 -port /dev/tty.usbserial-0001 -x main.go
+
+f2:
+	tinygo flash -target=teensy40 -x main.go
 
 git-update gu:
 	cd ..; make gu
