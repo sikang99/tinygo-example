@@ -2,13 +2,18 @@
 # Makefile
 #
 PROG=pico-led
+TARGET=pico
 usage:
-	@echo "usage: make [build]"
+	@echo "usage: make [build|flash] of $(PROG) for $(TARGET)"
 
 build b:
-	tinygo build -o $(PROG).uf2 -target=pico main.go
+	tinygo build -o $(PROG).uf2 -target=$(TARGET) main.go
 
 flash f:
-	tinygo flash -target=pico main.go
+	tinygo flash -target=$(TARGET) main.go
+
+
+git-update gu:
+	cd ..; make gu
 
 

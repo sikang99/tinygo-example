@@ -38,8 +38,23 @@
 - [dImrich/tinygo-wasmserve](https://github.com/dImrich/tinygo-wasmserve) - An HTTP server for testing TinyGo WebAssemblies
 - [cashoefman/TinyGo-On-ESP32](https://github.com/cashoefman/TinyGo-On-ESP32)
 - [aykevl/ws2812.go](https://gist.github.com/aykevl/47d0a24408cf585f6ba181c4dc663bca)
+- [cashoefman/TinyGo-On-ESP32](https://github.com/cashoefman/TinyGo-On-ESP32)
+- [**wasm3/embedded-wasm-apps**](https://github.com/wasm3/embedded-wasm-apps) - Run statically-compiled WebAssembly apps on any embedded platform
 
 
 ### Datasheets
-- [ESP32­C3 Family](https://cdn.sparkfun.com/assets/1/a/5/a/6/esp32-c3_datasheet_en.pdf)
+- [ESP32-C3 Family](https://cdn.sparkfun.com/assets/1/a/5/a/6/esp32-c3_datasheet_en.pdf)
 
+
+
+### Install
+```
+brew install platfoemio
+brew tap tinygo-org/tools
+brew install tinygo
+```
+
+```
+pio run -e esp32 -t upload
+pio device monitor
+```
