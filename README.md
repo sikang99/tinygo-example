@@ -44,6 +44,7 @@
 - [aykevl/ws2812.go](https://gist.github.com/aykevl/47d0a24408cf585f6ba181c4dc663bca)
 - [cashoefman/TinyGo-On-ESP32](https://github.com/cashoefman/TinyGo-On-ESP32)
 - [**wasm3/embedded-wasm-apps**](https://github.com/wasm3/embedded-wasm-apps) - Run statically-compiled WebAssembly apps on any embedded platform
+- [justinclift/tinygo-wasm-rotating-cube](https://github.com/justinclift/tinygo-wasm-rotating-cube)
 
 
 ### Datasheets
