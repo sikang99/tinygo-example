@@ -16,6 +16,7 @@
 - 2020/09/24 [Garbage collection in TinyGo](https://aykevl.nl/2020/09/gc-tinygo)
 - 2020/09/22 [ESP32 and ESP8266 support in TinyGo](https://aykevl.nl/2020/09/tinygo-esp32)
 - 2019/09/12 [Let’s Go tiny with tinyGo](https://hackernoon.com/lets-go-tiny-with-tinygo-uob035t5)
+- 2019/03/01 [TinyGo로 시작하는 내장 프로그래밍](https://tech.144lab.com/entry/tinygo)
 - 2019/02/25 [Goroutines in TinyGo](https://aykevl.nl/2019/02/tinygo-goroutines)
 - 2018/12/08 [Interfaces in TinyGo](https://aykevl.nl/2018/12/tinygo-interface)
 
