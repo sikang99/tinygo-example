@@ -26,6 +26,7 @@
 
 ### Slides
 - 2021 [Run Go applications on Pico using TinyGo](https://www.slideshare.net/CherrieHsieh/run-go-applications-on-pico-using-tinygo)
+- 2021 [A small update about Tinygo](https://deadprogram.github.io/gophercon-2021/#/)
 
 
 ### Videos
@@ -36,6 +37,8 @@
 ### Open Source
 - [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
 - [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo
+- [tinygo-org/gobadge](https://github.com/tinygo-org/gobadge)
+- [tinygo-org/tinyhci](https://github.com/tinygo-org/tinyhci) - TinyGo Hardware Continuous Integration (HCI) system.
 - [jypelle/xship](https://github.com/jypelle/xship)
 - [mramshaw/TinyGo](https://github.com/mramshaw/TinyGo) - Experimenting with TinyGo
 - [justinclift/tinygo-wasm-basic-triangle](https://github.com/justinclift/tinygo-wasm-basic-triangle) - Use TinyGo to create the basic WebGL triangle in Wasm. About 9.5kB compressed
@@ -45,6 +48,8 @@
 - [cashoefman/TinyGo-On-ESP32](https://github.com/cashoefman/TinyGo-On-ESP32)
 - [**wasm3/embedded-wasm-apps**](https://github.com/wasm3/embedded-wasm-apps) - Run statically-compiled WebAssembly apps on any embedded platform
 - [justinclift/tinygo-wasm-rotating-cube](https://github.com/justinclift/tinygo-wasm-rotating-cube)
+- [sago35/tinygo-workshop](https://github.com/sago35/tinygo-workshop)
+
 
 
 ### Datasheets

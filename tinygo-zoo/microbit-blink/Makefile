@@ -11,5 +11,9 @@ build b:
 flash f:
 	tinygo flash -target microbit main.go
 
+clean:
+	rm -f *.hex
+
+
 
 

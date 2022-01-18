@@ -1,7 +1,7 @@
 #
 # Makefile
 #
-PROG=microbit-pixelbuttons
+PROG=microbit-mag3110
 usage:
 	@echo "usage: make [build]"
 
