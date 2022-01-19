@@ -38,7 +38,8 @@
 - [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
 - [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo
 - [tinygo-org/gobadge](https://github.com/tinygo-org/gobadge)
-- [tinygo-org/tinyhci](https://github.com/tinygo-org/tinyhci) - TinyGo Hardware Continuous Integration (HCI) system.
+- [tinygo-org/tinyhci](https://github.com/tinygo-org/tinyhci) - TinyGo Hardware Continuous Integration (HCI) system
+- [tinygo-org/tinyfont](https://github.com/tinygo-org/tinyfont) - Text library for TinyGo displays
 - [jypelle/xship](https://github.com/jypelle/xship)
 - [mramshaw/TinyGo](https://github.com/mramshaw/TinyGo) - Experimenting with TinyGo
 - [justinclift/tinygo-wasm-basic-triangle](https://github.com/justinclift/tinygo-wasm-basic-triangle) - Use TinyGo to create the basic WebGL triangle in Wasm. About 9.5kB compressed
@@ -49,6 +50,8 @@
 - [**wasm3/embedded-wasm-apps**](https://github.com/wasm3/embedded-wasm-apps) - Run statically-compiled WebAssembly apps on any embedded platform
 - [justinclift/tinygo-wasm-rotating-cube](https://github.com/justinclift/tinygo-wasm-rotating-cube)
 - [sago35/tinygo-workshop](https://github.com/sago35/tinygo-workshop)
+- [wapc/tinygo-msgpack](https://github.com/wapc/tinygo-msgpack) - MessagePack module for TinyGo
+- [wapc/wapc-guest-tinygo](https://github.com/wapc/wapc-guest-tinygo) - SDK for creating waPC WebAssembly Guest Modules in TinyGo
 
 
 
