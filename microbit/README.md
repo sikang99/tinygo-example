@@ -14,4 +14,5 @@
 
 ### Open Source
 - [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit) - A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
+- [sinobitorg/hardware](https://github.com/sinobitorg/hardware) - Hardware designs for the sino:bit
 
