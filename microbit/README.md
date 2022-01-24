@@ -14,5 +14,6 @@
 
 ### Open Source
 - [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit) - A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
+- [bbcmicrobit/micropython](https://github.com/bbcmicrobit/micropython) - Port of MicroPython for the BBC micro:bit
 - [sinobitorg/hardware](https://github.com/sinobitorg/hardware) - Hardware designs for the sino:bit
-
+- [tdicola/sinobit-micropython](https://github.com/tdicola/sinobit-micropython) - Port of MicroPython for the sino:bit single board computer (a variant of the BBC micro:bit & Calliope Mini)

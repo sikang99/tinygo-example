@@ -55,7 +55,7 @@
 - [sago35/tinygo-workshop](https://github.com/sago35/tinygo-workshop)
 - [wapc/tinygo-msgpack](https://github.com/wapc/tinygo-msgpack) - MessagePack module for TinyGo
 - [wapc/wapc-guest-tinygo](https://github.com/wapc/wapc-guest-tinygo) - SDK for creating waPC WebAssembly Guest Modules in TinyGo
-
+- [blynkkk/boards](https://github.com/blynkkk/boards) - List of boards supported by Blynk platform
 
 
 ### Datasheets
