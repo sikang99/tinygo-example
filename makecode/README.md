@@ -6,6 +6,8 @@
 
 ### Information
 - [MakeCode for Maker](https://maker.makecode.com/) - Arduino, ESP32, ...
+- [MakeCode for micro:bit](https://makecode.microbit.org/)
+    - [Serial Communication](https://makecode.microbit.org/device/serial)
 
 
 ### Open Source

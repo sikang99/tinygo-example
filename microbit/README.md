@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2020/10/15 [Serial Communications with micro:bit + Raspberry Pi](https://micromag.cc/serial-communications-with-micro-bit-raspberry-pi/)
 - 2017/11/20 [Sino:bit](https://medium.com/dark-mountain/sino-bit-3691a7decf68)
 
 
@@ -19,3 +20,5 @@
 - [sinobitorg/hardware](https://github.com/sinobitorg/hardware) - Hardware designs for the sino:bit
 - [tdicola/sinobit-micropython](https://github.com/tdicola/sinobit-micropython) - Port of MicroPython for the sino:bit single board computer (a variant of the BBC micro:bit & Calliope Mini)
 - [ttseng/microbit-ml](https://github.com/ttseng/microbit-ml) - gesture recognition tool for the microbit using BLE
+- [alcir/microbit-ble](https://github.com/alcir/microbit-ble) - Read data from micro:bit using Bluetooth from Linux
+- [CytronTechnologies/pxt-rekabit](https://github.com/CytronTechnologies/pxt-rekabit) - Cytron REKA:BIT - Simplifying robotics with micro:bit
