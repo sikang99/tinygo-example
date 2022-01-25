@@ -13,7 +13,9 @@
 
 
 ### Open Source
+- [carlosperate/awesome-microbit/](https://github.com/carlosperate/awesome-microbit/)
 - [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit) - A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
 - [bbcmicrobit/micropython](https://github.com/bbcmicrobit/micropython) - Port of MicroPython for the BBC micro:bit
 - [sinobitorg/hardware](https://github.com/sinobitorg/hardware) - Hardware designs for the sino:bit
 - [tdicola/sinobit-micropython](https://github.com/tdicola/sinobit-micropython) - Port of MicroPython for the sino:bit single board computer (a variant of the BBC micro:bit & Calliope Mini)
+- [ttseng/microbit-ml](https://github.com/ttseng/microbit-ml) - gesture recognition tool for the microbit using BLE
