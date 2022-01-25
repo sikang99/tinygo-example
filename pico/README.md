@@ -2,7 +2,8 @@
 
 
 ### Articles
-- 2021/01/24 [Using RP2040 PIO in Arduino IDE on Windows](https://www.instructables.com/Using-RP2040-PIO-in-Arduino-IDE-on-Windows/)
+- 2022/01/24 [Ashish Kumar's StackyPi Puts an RP2040 Into the Raspberry Pi Zero Form Factor](https://www.hackster.io/news/ashish-kumar-s-stackypi-puts-an-rp2040-into-the-raspberry-pi-zero-form-factor-f065becf9ef8)
+- 2022/01/24 [Using RP2040 PIO in Arduino IDE on Windows](https://www.instructables.com/Using-RP2040-PIO-in-Arduino-IDE-on-Windows/)
 - 2021/03/12 [Getting started with micro-ROS on the Pi Pico](https://artivis.github.io/post/2021/pi-pico-uros-getting-started/)
 - 2020/06/16 [10 Projects for a Raspberry Pi Pico](https://www.makeuseof.com/raspberry-pi-pico-projects/)
 
