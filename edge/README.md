@@ -6,6 +6,7 @@
 
 
 ### Information
+- [EdgeTX](https://edgetx.org/) - The cutting-edge open source firmware for your R/C Radio
 
 
 
