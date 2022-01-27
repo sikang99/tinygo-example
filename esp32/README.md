@@ -4,6 +4,7 @@
 
 ### Articles
 - [Build an ESP32CAM Robot Car](https://dronebotworkshop.com/esp32cam-robot-car/)
+- [Remote controlled car with ESP32-cam](https://www.flyrobo.in/blog/remote-controlled-esp32-cam-car)
 
 
 ### Information
