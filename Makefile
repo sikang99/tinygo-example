@@ -3,7 +3,7 @@
 #
 PROG=tinygo-example
 BUILD=0.0.0.1
-TINYGO_VERSION=0.21.0
+TINYGO_VERSION=0.22.0
 #----------------------------------------------------------------------------------
 usage:
 	@echo "usage: make [git] for $(PROG)"

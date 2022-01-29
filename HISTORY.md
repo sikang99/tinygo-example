@@ -5,6 +5,8 @@
 
 
 ### Changelogs
+- 2022/01/28
+    - update to tinygo version 0.22.0 by `brew update tinygo`
 - 2022/01/15
     - tested for esp32
     - pio --version : PlatformIO Core, version 5.1.1
